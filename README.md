@@ -31,6 +31,15 @@ A two-phase mixture model was employed to investigate heat transfer and pressure
 
 ## Reference
 
-The original publication should be cited here.
+Reference
 
-**Note:** The findings above are from the original article and should not be presented as independently reproduced results unless your simulations confirmed them.
+This project is based on the methodology presented in the following published study:
+
+Title: [Three-dimensional multiphase CFD modeling of thermal–hydraulic
+characteristics of nanofluid flow in helical microchannels]
+Authors: [Sina Nabati Shoghl • Zakaria Loloei1 • Mostafa Keshavarz Moraveji]
+Journal: [Journal of Thermal Analysis and Calorimetry]
+Year: [2018]
+DOI: [(https://doi.org/10.1007/s10973-018-7821-7(0123456789().,-volV)(0123456789().,-volV))]
+
+This repository documents a numerical reproduction of the published study. The original research and its reported findings are credited to the authors.
