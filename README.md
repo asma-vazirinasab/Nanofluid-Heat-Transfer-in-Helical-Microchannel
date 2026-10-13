@@ -9,7 +9,7 @@ A two-phase mixture model was employed to investigate heat transfer and pressure
 ## Simulation Parameters
 
 * **Working fluids:** Water-based Al₂O₃ and TiO₂ nanofluids
-* **Geometries:** Straight and helical microchannels
+* **Geometries:** Helical microchannels
 * **Numerical approach:** Computational fluid dynamics (CFD)
 * **Multiphase model:** Mixture model
 * **Geometric parameters:** Helical pitch and curvature ratio
